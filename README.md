@@ -3,14 +3,15 @@
 ![Banner Santiago Zuluaga](banner-github.png)
 
 Soy Santiago, Estadístico de la Universidad Nacional de Colombia. Inmerso en el mundo de datos, me enfoco en el análisis y la ciencia de datos. Actualmente estoy mejorando  mis habilidades en ingeniería de Datos.
-<!--
-**santiagozuluagaa/santiagozuluagaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Encuéntrame en la web:
 
 - [Linkedin](https://www.linkedin.com/in/santiago-zuluaga-ayala/)
 - [Sitio Web](https://santiagozuluagaa.github.io/web/)
 
+
+<!--
+**santiagozuluagaa/santiagozuluagaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
