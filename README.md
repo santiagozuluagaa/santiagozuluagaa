@@ -1,10 +1,11 @@
-### Hola!
+# Hola!
 
 ![Banner Santiago Zuluaga](banner-github.png)
 
 Soy Santiago, Estadístico de la Universidad Nacional de Colombia. Inmerso en el mundo de datos, me enfoco en el análisis y la ciencia de datos. Actualmente estoy mejorando  mis habilidades en ingeniería de Datos.
 
-Encuéntrame en la web:
+
+### Encuéntrame en la web :earth_americas:
 
 - [Linkedin](https://www.linkedin.com/in/santiago-zuluaga-ayala/)
 - [Sitio Web](https://santiagozuluagaa.github.io/web/)
