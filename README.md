@@ -9,6 +9,7 @@ Soy Santiago, Estadístico de la Universidad Nacional de Colombia. Inmerso en el
 
 - [Linkedin](https://www.linkedin.com/in/santiago-zuluaga-ayala/)
 - [Sitio Web](https://santiagozuluagaa.github.io/web/)
+- [YouTube](https://www.youtube.com/channel/UCfOBFd8tYZ9490CwVhN8cZg)
 
 
 <!--
