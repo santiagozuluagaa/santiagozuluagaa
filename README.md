@@ -3,7 +3,10 @@
 ![Banner Santiago Zuluaga](banner-github.png)
 
 Soy Santiago, Estadístico de la Universidad Nacional de Colombia. Inmerso en el mundo de datos, me enfoco en el análisis y la ciencia de datos. Actualmente estoy mejorando  mis habilidades en ingeniería de Datos.
+
 [![My Skills](https://skillicons.dev/icons?i=r,py,mysql,git,regex,latex,html)](https://skillicons.dev)
+
+
 
 ## Proyectos
 
@@ -25,16 +28,22 @@ Soy Santiago, Estadístico de la Universidad Nacional de Colombia. Inmerso en el
  <a> <img src="https://raw.githubusercontent.com/santiagozuluagaa/DataScience/main/Animations/NeuralNetworks/BackPropagation.gif" width="80%" /> </a>
 </p>
 
-### Encuéntrame en la web :earth_americas:
+### ¡Conéctemos en la web! :earth_americas:
 
-- [Linkedin](https://www.linkedin.com/in/santiago-zuluaga-ayala/)
-- [Sitio Web](https://santiagozuluagaa.github.io/web/)
-- [YouTube](https://www.youtube.com/channel/UCfOBFd8tYZ9490CwVhN8cZg)
+<a href="https://santiagozuluagaa.github.io/web/"> Sitio Web :computer: </a> 
+
+<a href="https://www.linkedin.com/in/santiago-zuluaga-ayala/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> 
+
+<a href="https://santiagozuluagaa.github.io/web/"> ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) </a> 
+
+<a href="mailto:zuluaga.ayala.santiago@gmail.com"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a> 
+
 
 <!--
+- [Linkedin](https://www.linkedin.com/in/santiago-zuluaga-ayala/)
+- [Sitio Web](https://santiagozuluagaa.github.io/web/)
 **santiagozuluagaa/santiagozuluagaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
