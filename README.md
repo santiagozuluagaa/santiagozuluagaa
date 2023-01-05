@@ -7,8 +7,20 @@ Soy Santiago, Estadístico de la Universidad Nacional de Colombia. Inmerso en el
 ## Proyectos
 
 <p align="center">
- <a href="https://accidentesmed.shinyapps.io/AppCompleta2/" target="_blank"> <img src="crash-med.PNG" width="45%" /> </a>
- <a href="https://santiagozuluagaa.shinyapps.io/WINEPCA/" target="_blank"> <img src="pca.PNG" width="45%" /> </a>
+ <a href="https://accidentesmed.shinyapps.io/AppCompleta2/"> <img src="crash-med.PNG" width="45%" /> </a>
+ <a href="https://santiagozuluagaa.shinyapps.io/WINEPCA/"> <img src="pca.PNG" width="45%" /> </a>
+</p>
+
+## DataViz (Galería)
+<p align="center">
+ <a> <img src="dataviz-gallery/05-Ukraine.png" width="45%" /> </a>
+ <a> <img src="dataviz-gallery/desempleo.jpg" width="45%" /> </a>
+ <a> <img src="dataviz-gallery/18-Blue.png" width="45%" /> </a>
+ <a> <img src="dataviz-gallery/casos-covid.jpg" width="45%" /> </a>
+ <a> <img src="dataviz-gallery/06-Network.gif" width="45%" /> </a>
+ <a> <img src="dataviz-gallery/11-Red.png" width="45%" /> </a>
+ <a> <img src="dataviz-gallery/modelo-alternancia.png" width="45%" /> </a>
+ <a> <img src="dataviz-gallery/calendario-calor.png" width="45%" /> </a>
 </p>
 
 ### Encuéntrame en la web :earth_americas:
