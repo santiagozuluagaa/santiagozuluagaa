@@ -21,6 +21,7 @@ Soy Santiago, Estadístico de la Universidad Nacional de Colombia. Inmerso en el
  <a> <img src="dataviz-gallery/11-Red.png" width="45%" /> </a>
  <a> <img src="dataviz-gallery/modelo-alternancia.png" width="45%" /> </a>
  <a> <img src="dataviz-gallery/calendario-calor.png" width="45%" /> </a>
+ <a> <img src="https://raw.githubusercontent.com/santiagozuluagaa/DataScience/main/Animations/NeuralNetworks/BackPropagation.gif" width="80%" /> </a>
 </p>
 
 ### Encuéntrame en la web :earth_americas:
