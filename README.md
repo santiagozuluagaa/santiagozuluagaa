@@ -13,7 +13,6 @@ Soy Santiago, Estadístico de la Universidad Nacional de Colombia. Inmerso en el
 <p align="center">
  <a href="https://accidentesmed.shinyapps.io/AppCompleta2/"> <img src="crash-med.PNG" width="45%" /> </a>
  <a href="https://santiagozuluagaa.shinyapps.io/WINEPCA/"> <img src="pca.PNG" width="45%" /> </a>
- <a href="https://github.com/santiagozuluagaa/data-warehouse-booking"> <img src="https://github.com/santiagozuluagaa/data-warehouse-booking/blob/main/snowflake_schema.png" width="45%" /> </a>
 </p>
 
 ## DataViz (Galería)
