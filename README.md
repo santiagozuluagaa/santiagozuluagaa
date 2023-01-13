@@ -34,7 +34,7 @@ Soy Santiago, Estadístico de la Universidad Nacional de Colombia. Inmerso en el
 
 <a href="https://www.linkedin.com/in/santiago-zuluaga-ayala/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> 
 
-<a href="https://santiagozuluagaa.github.io/web/"> ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) </a> 
+<a href="https://www.youtube.com/channel/UCfOBFd8tYZ9490CwVhN8cZg"> ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) </a> 
 
 <a href="mailto:zuluaga.ayala.santiago@gmail.com"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a> 
 
