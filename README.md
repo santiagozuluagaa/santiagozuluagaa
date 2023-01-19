@@ -2,7 +2,7 @@
 
 ![Banner Santiago Zuluaga](banner-github.png)
 
-Soy Santiago, Estadístico de la Universidad Nacional de Colombia. Inmerso en el mundo de datos, me enfoco en el análisis y la ciencia de datos. Actualmente estoy mejorando  mis habilidades en ingeniería de Datos. ♥️R & ♥️Python.
+Soy Santiago, Estadístico de la Universidad Nacional de Colombia. Inmerso en el mundo de datos. ♥️R & ♥️Python.
 
 [![My Skills](https://skillicons.dev/icons?i=r,py,mysql,git,regex,latex,html)](https://skillicons.dev)
 
