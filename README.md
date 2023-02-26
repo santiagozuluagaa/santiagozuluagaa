@@ -4,7 +4,7 @@
 
 Soy Santiago, Estadístico de la Universidad Nacional de Colombia. Inmerso en el mundo de datos. ♥️R & ♥️Python.
 
-[![My Skills](https://skillicons.dev/icons?i=r,py,mysql,git,regex,latex,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,py,mysql,git,regex,latex,html)]()
 
 
 
